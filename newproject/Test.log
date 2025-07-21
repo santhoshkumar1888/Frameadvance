@@ -1,0 +1,26 @@
+2025-07-17 09:17:53,519 main INFO main day12.Demo2.main(Demo2.java:17) Demo2.java day12.Demo2- Hey have a good day 17 
+2025-07-17 09:17:53,525 main WARN main day12.Demo2.main(Demo2.java:18) Demo2.java day12.Demo2- Warning 18 
+2025-07-17 19:04:56,800-this is fatal msg-FATAL
+2025-07-17 19:04:56,800-this is error-ERROR
+2025-07-17 19:04:56,800-this is warn-WARN
+2025-07-17 19:04:56,801-this is info-INFO
+2025-07-17 19:04:56,801-this is debug-DEBUG
+2025-07-17 19:04:56,801-this is trace-TRACE
+2025-07-17 19:04:56,801-this is fatal msg2-FATAL
+2025-07-17 19:04:56,801-this is error2-ERROR
+2025-07-17 19:04:56,801-this is warn2-WARN
+2025-07-17 19:04:56,801-this is info2-INFO
+2025-07-17 19:04:56,801-this is debug2-DEBUG
+2025-07-17 19:04:56,801-this is trace2-TRACE
+2025-07-17 19:08:39,786-this is fatal msg-FATAL
+2025-07-17 19:08:39,803-this is error-ERROR
+2025-07-17 19:08:39,804-this is warn-WARN
+2025-07-17 19:08:39,805-this is info-INFO
+2025-07-17 19:08:39,805-this is debug-DEBUG
+2025-07-17 19:08:39,806-this is trace-TRACE
+2025-07-17 19:08:39,807-this is fatal msg2-FATAL
+2025-07-17 19:08:39,808-this is error2-ERROR
+2025-07-17 19:08:39,808-this is warn2-WARN
+2025-07-17 19:08:39,808-this is info2-INFO
+2025-07-17 19:08:39,809-this is debug2-DEBUG
+2025-07-17 19:08:39,809-this is trace2-TRACE

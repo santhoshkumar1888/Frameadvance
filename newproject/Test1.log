@@ -1,0 +1,12 @@
+FATAL this is fatal msg
+ERROR this is error
+WARN this is warn
+INFO this is info
+DEBUG this is debug
+TRACE this is trace
+FATAL this is fatal msg2
+ERROR this is error2
+WARN this is warn2
+INFO this is info2
+DEBUG this is debug2
+TRACE this is trace2
