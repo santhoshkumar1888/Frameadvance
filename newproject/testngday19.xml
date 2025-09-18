@@ -1,0 +1,18 @@
+<suite name="Suite" parallel="tests">
+<test  name="TestGC">
+<parameter name="docker" value="http://localhost:4444"/>
+<parameter name="browser" value="chrome"/>
+<classes>
+<class name="day19.Demo3"/>
+</classes>
+</test>
+<test  name="TestFF">
+<parameter name="docker" value="http://localhost:4455"/>
+<parameter name="browser" value="firefox"/>
+<classes>
+<class name="day19.Demo3"/>
+</classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
